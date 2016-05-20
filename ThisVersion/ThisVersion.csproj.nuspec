@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ThisVersion</id>
+    <version>1.0.0</version>
+    <authors>wk</authors>
+    <owners>wk</owners>
+    <licenseUrl>https://github.com/wk-j/this-version</licenseUrl>
+    <projectUrl>https://github.com/wk-j/this-version</projectUrl>
+    <iconUrl>https://github.com/wk-j/this-version</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Get current version of executing assembly.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>C#, .Net, Version, Assembly </tags>
+  </metadata>
+<files>
+  <file src="bin/Release/ThisVersion.dll" target="lib/net45" />
+</files>
+</package>
