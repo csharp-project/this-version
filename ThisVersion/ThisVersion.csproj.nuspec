@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ThisVersion</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <authors>wk</authors>
     <owners>wk</owners>
     <licenseUrl>https://github.com/wk-j/this-version</licenseUrl>
